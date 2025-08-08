@@ -219,8 +219,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Author**: [Uzma Masroor](https://github.com/UzmaMasroor/Laptop-Price-Prediction)
 - **Email**: uzmaa.masroor@gmail.com
-- **LinkedIn**: [Uzma Masroor](www.linkedin.com/in/uzma-masroor-)
-- **Project Issues**: [GitHub Issues](https://github.com/UzmaMasroor/Laptop-price-predictor/issues)
+- **LinkedIn**: [Uzma Masroor](https://www.linkedin.com/in/uzma-masroor-/)
+- **Project Issues**: [GitHub Issues](https://github.com/UzmaMasroor/Laptop-Price-Prediction)
 
 ## ⭐ Show Your Support
 
